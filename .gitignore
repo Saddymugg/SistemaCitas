@@ -1,0 +1,24 @@
+# Ignorar archivos compilados de Java
+*.class
+
+# Archivos de intercambio de editores
+*.swp
+
+# Archivos y carpetas de IDEs comunes
+*.iml
+.idea/
+*.ipr
+*.iws
+*.bak
+
+# Carpetas de compilación y salida
+bin/
+out/
+build/
+
+# Archivos de log
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
